@@ -1,0 +1,568 @@
+[{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c268296"
+  },
+  "user": "Gopi",
+  "codekata": 235,
+  "attendance": "Present",
+  "topics": "React",
+  "topic_date": {
+    "$date": "2020-10-04T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-09T18:30:00.000Z"
+  },
+  "tasks": "movie_app",
+  "company_drives": "HCL",
+  "company_drives_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Sathish"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c268297"
+  },
+  "user": "shankar",
+  "codekata": 200,
+  "attendance": "Present",
+  "topics": "MongoDB",
+  "topic_date": {
+    "$date": "2020-10-14T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-15T18:30:00.000Z"
+  },
+  "tasks": "mongo_commands",
+  "company_drives": "TCS",
+  "company_drives_date": {
+    "$date": "2020-10-24T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Sathish"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c268298"
+  },
+  "user": "anas",
+  "codekata": 175,
+  "attendance": "Present",
+  "topics": "Node_js",
+  "topic_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-20T18:30:00.000Z"
+  },
+  "tasks": "create_api",
+  "company_drives": "ZOHO",
+  "company_drives_date": {
+    "$date": "2020-10-27T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Sathish"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c268299"
+  },
+  "user": "Shan",
+  "codekata": 150,
+  "attendance": "Present",
+  "topics": "HTML",
+  "topic_date": {
+    "$date": "2020-10-06T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-08T18:30:00.000Z"
+  },
+  "tasks": "responsive_web_design",
+  "company_drives": "WIPRO",
+  "company_drives_date": {
+    "$date": "2020-10-21T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Magesh"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c26829a"
+  },
+  "user": "sanjay",
+  "codekata": 250,
+  "attendance": "Present",
+  "topics": "CSS",
+  "topic_date": {
+    "$date": "2020-10-11T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-13T18:30:00.000Z"
+  },
+  "tasks": "responsive_web_design",
+  "company_drives": "ZOHO",
+  "company_drives_date": {
+    "$date": "2020-10-27T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Magesh"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c26829b"
+  },
+  "user": "ram",
+  "codekata": 93,
+  "attendance": "Absent",
+  "topics": "JavaScript",
+  "topic_date": {
+    "$date": "2020-10-18T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-22T18:30:00.000Z"
+  },
+  "tasks": "functions",
+  "company_drives": "Cognizant",
+  "company_drives_date": {
+    "$date": "2020-10-30T18:30:00.000Z"
+  },
+  "placement": "Not_appeared",
+  "mentors": "Rupan"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c26829c"
+  },
+  "user": "swamy",
+  "codekata": 180,
+  "attendance": "Present",
+  "topics": "React",
+  "topic_date": {
+    "$date": "2020-10-04T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-15T18:30:00.000Z"
+  },
+  "tasks": "movie_app",
+  "company_drives": "HCL",
+  "company_drives_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c26829d"
+  },
+  "user": "ramar",
+  "codekata": 125,
+  "attendance": "Present",
+  "topics": "CSS",
+  "topic_date": {
+    "$date": "2020-10-11T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "tasks": "responsive_web_design",
+  "company_drives": "TCS",
+  "company_drives_date": {
+    "$date": "2020-10-24T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Magesh"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c26829e"
+  },
+  "user": "lakshman",
+  "codekata": 155,
+  "attendance": "Present",
+  "topics": "Node_js",
+  "topic_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-20T18:30:00.000Z"
+  },
+  "tasks": "create_api",
+  "company_drives": "ZOHO",
+  "company_drives_date": {
+    "$date": "2020-10-27T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c26829f"
+  },
+  "user": "seetha",
+  "codekata": 55,
+  "attendance": "Present",
+  "topics": "MongoDB",
+  "topic_date": {
+    "$date": "2020-10-14T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-18T18:30:00.000Z"
+  },
+  "tasks": "mongo_commands",
+  "company_drives": "HCL",
+  "company_drives_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682a0"
+  },
+  "user": "paartha",
+  "codekata": 68,
+  "attendance": "Present",
+  "topics": "React",
+  "topic_date": {
+    "$date": "2020-10-04T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-15T18:30:00.000Z"
+  },
+  "tasks": "movie_app",
+  "company_drives": "ZOHO",
+  "company_drives_date": {
+    "$date": "2020-10-27T18:30:00.000Z"
+  },
+  "placement": "Not_appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682a1"
+  },
+  "user": "Harini",
+  "codekata": 250,
+  "attendance": "Absent",
+  "topics": "JavaScript",
+  "topic_date": {
+    "$date": "2020-10-18T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-22T18:30:00.000Z"
+  },
+  "tasks": "functions",
+  "company_drives": "Cognizant",
+  "company_drives_date": {
+    "$date": "2020-10-30T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Rupan"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682a2"
+  },
+  "user": "hari",
+  "codekata": 95,
+  "attendance": "Present",
+  "topics": "HTML",
+  "topic_date": {
+    "$date": "2020-10-06T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-08T18:30:00.000Z"
+  },
+  "tasks": "responsive_web_design",
+  "company_drives": "HCL",
+  "company_drives_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "placement": "Not_appeared",
+  "mentors": "Magesh"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682a3"
+  },
+  "user": "Samantha",
+  "codekata": 200,
+  "attendance": "Present",
+  "topics": "Node_js",
+  "topic_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-24T18:30:00.000Z"
+  },
+  "tasks": "create_api",
+  "company_drives": "WIPRO",
+  "company_drives_date": {
+    "$date": "2020-10-21T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682a4"
+  },
+  "user": "trisha",
+  "codekata": 88,
+  "attendance": "Present",
+  "topics": "React",
+  "topic_date": {
+    "$date": "2020-10-04T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-14T18:30:00.000Z"
+  },
+  "tasks": "movie_app",
+  "company_drives": "WIPRO",
+  "company_drives_date": {
+    "$date": "2020-10-21T18:30:00.000Z"
+  },
+  "placement": "Not_appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682a5"
+  },
+  "user": "nayan",
+  "codekata": 189,
+  "attendance": "Present",
+  "topics": "JavaScript",
+  "topic_date": {
+    "$date": "2020-10-18T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-24T18:30:00.000Z"
+  },
+  "tasks": "functions",
+  "company_drives": "Cognizant",
+  "company_drives_date": {
+    "$date": "2020-10-30T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Rupan"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682a6"
+  },
+  "user": "sk",
+  "codekata": 159,
+  "attendance": "Absent",
+  "topics": "MongoDB",
+  "topic_date": {
+    "$date": "2020-10-14T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-20T18:30:00.000Z"
+  },
+  "tasks": "mongo_commands",
+  "company_drives": "TCS",
+  "company_drives_date": {
+    "$date": "2020-10-24T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682a7"
+  },
+  "user": "sivakumar",
+  "codekata": 175,
+  "attendance": "Present",
+  "topics": "MongoDB",
+  "topic_date": {
+    "$date": "2020-10-14T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "tasks": "mongo_commands",
+  "company_drives": "Cognizant",
+  "company_drives_date": {
+    "$date": "2020-10-30T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682a8"
+  },
+  "user": "surya",
+  "codekata": 105,
+  "attendance": "Absent",
+  "topics": "React",
+  "topic_date": {
+    "$date": "2020-10-04T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-21T18:30:00.000Z"
+  },
+  "tasks": "movie_app",
+  "company_drives": "HCL",
+  "company_drives_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682a9"
+  },
+  "user": "karthi",
+  "codekata": 265,
+  "attendance": "Present",
+  "topics": "HTML",
+  "topic_date": {
+    "$date": "2020-10-06T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-10T18:30:00.000Z"
+  },
+  "tasks": "responsive_web_design",
+  "company_drives": "WIPRO",
+  "company_drives_date": {
+    "$date": "2020-10-21T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Magesh"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682aa"
+  },
+  "user": "VK",
+  "codekata": 300,
+  "attendance": "Present",
+  "topics": "JavaScript",
+  "topic_date": {
+    "$date": "2020-10-18T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-28T18:30:00.000Z"
+  },
+  "tasks": "functions",
+  "company_drives": "Cognizant",
+  "company_drives_date": {
+    "$date": "2020-10-30T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Rupan"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682ab"
+  },
+  "user": "Prabhu",
+  "codekata": 30,
+  "attendance": "Absent",
+  "topics": "CSS",
+  "topic_date": {
+    "$date": "2020-10-11T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-15T18:30:00.000Z"
+  },
+  "tasks": "responsive_web_design",
+  "company_drives": "HCL",
+  "company_drives_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Magesh"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682ac"
+  },
+  "user": "premji",
+  "codekata": 177,
+  "attendance": "Present",
+  "topics": "MongoDB",
+  "topic_date": {
+    "$date": "2020-10-14T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-16T18:30:00.000Z"
+  },
+  "tasks": "mongo_commands",
+  "company_drives": "TCS",
+  "company_drives_date": {
+    "$date": "2020-10-24T18:30:00.000Z"
+  },
+  "placement": "Not_appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682ad"
+  },
+  "user": "yuvan",
+  "codekata": 133,
+  "attendance": "Present",
+  "topics": "React",
+  "topic_date": {
+    "$date": "2020-10-04T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-10T18:30:00.000Z"
+  },
+  "tasks": "movie_app",
+  "company_drives": "ZOHO",
+  "company_drives_date": {
+    "$date": "2020-10-27T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682ae"
+  },
+  "user": "rajen",
+  "codekata": 222,
+  "attendance": "Absent",
+  "topics": "Node_js",
+  "topic_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-21T18:30:00.000Z"
+  },
+  "tasks": "create_api",
+  "company_drives": "WIPRO",
+  "company_drives_date": {
+    "$date": "2020-10-21T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Raghav"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682af"
+  },
+  "user": "kural",
+  "codekata": 50,
+  "attendance": "Absent",
+  "topics": "HTML",
+  "topic_date": {
+    "$date": "2020-10-06T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-08T18:30:00.000Z"
+  },
+  "tasks": "responsive_web_design",
+  "company_drives": "Cognizant",
+  "company_drives_date": {
+    "$date": "2020-10-30T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Magesh"
+},{
+  "_id": {
+    "$oid": "6450c004a1ec06b70c2682b0"
+  },
+  "user": "simbu",
+  "codekata": 350,
+  "attendance": "Present",
+  "topics": "Node_js",
+  "topic_date": {
+    "$date": "2020-10-19T18:30:00.000Z"
+  },
+  "task_date": {
+    "$date": "2020-10-24T18:30:00.000Z"
+  },
+  "tasks": "create_api",
+  "company_drives": "ZOHO",
+  "company_drives_date": {
+    "$date": "2020-10-27T18:30:00.000Z"
+  },
+  "placement": "Appeared",
+  "mentors": "Raghav"
+}]
